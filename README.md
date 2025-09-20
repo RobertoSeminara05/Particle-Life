@@ -3,6 +3,10 @@
 This Python program simulates the dynamics of particles interacting via variable-range forces. Particles are displayed in a 2D universe using Matplotlib, and their
 evolution is animated. Users can select different interaction rules and modify system parameters to explore emergent patterns.
 
+![Particle Simulation Demo](simulation.gif)
+
+This GIF shows a simulation using 625 particles, 10 types, with `step5` (max speed limiter, variable forces, and ranges) in a 100x100 universe.
+
 ---
 
 ## How to Use
